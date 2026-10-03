@@ -1,8 +1,8 @@
 # Phase 1 Source Index
 
-Status: INITIALIZED
+Status: PHASE 1 MERGED + REWRITTEN
 
-No source documents have been imported yet.
+Source audit, normalization, merge, and canonical rewrite are complete for the current Phase 1 scope.
 
 Sources to be audited:
 - Existing YouTube Shorts analysis instructions
@@ -29,6 +29,10 @@ Source authority:
 
 ### Project knowledge
 - `normalized/04_PROJECT_RULES.md` — explicit project workflow rules
+
+## Canonical knowledge
+
+The rewritten NotebookLM-ready knowledge layer is under `knowledge/`. The merged intermediate layer is under `merged/` and is retained for traceability.
 
 ## Normalization principle
 
