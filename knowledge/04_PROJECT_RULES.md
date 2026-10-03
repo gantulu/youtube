@@ -1,7 +1,7 @@
 # YouTube Shorts AI — Project Rules
 
 ## Authority
-P1 — Explicit project decisions.
+P1 — Explicit project decisions. These are project-level controls, not native Gemini guarantees.
 
 ## Input
 Accept and normalize a public YouTube Shorts URL or video ID.
